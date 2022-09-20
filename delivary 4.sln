@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delivary 4", "delivary 4\delivary 4.csproj", "{D8B22542-B4CD-421C-87F2-9D9EE5D3C59B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B22542-B4CD-421C-87F2-9D9EE5D3C59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B22542-B4CD-421C-87F2-9D9EE5D3C59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B22542-B4CD-421C-87F2-9D9EE5D3C59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B22542-B4CD-421C-87F2-9D9EE5D3C59B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC1EBA3-1525-4805-9941-140164F98E47}
+	EndGlobalSection
+EndGlobal
